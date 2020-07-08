@@ -1,5 +1,5 @@
 ---
-title: Bucket List of Useful Blockchain Resources
+title: "Bucket List of Useful Blockchain Resources"
 date: 2020-07-08
 ---
 
